@@ -16,3 +16,9 @@ psutil
 kornia>=0.7.1
 spandrel
 soundfile
+
+#kidgeni
+
+websocket-client
+fastapi
+uvicorn
